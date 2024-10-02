@@ -33,5 +33,18 @@ PID
 102998
 2024-10-02 15:39:09.797671689 +0200 CEST m=+0.000426027
 ```
+- binary verion
+  ```
+  gauravsablok@gaurav-sablok ~/Desktop/codecreatede/golang/tcp-analyzer ±main⚡ » ./tcp-analyzer -h
+Creating the network structs
+
+Usage:
+  flags [flags]
+
+Flags:
+  -h, --help           help for flags
+  -i, --input string   network (default "path to the networkfile")
+gauravsablok@gaurav-sablok ~/Desktop/codecreatede/golang/tcp-analyzer ±main⚡ » ./tcp-analyzer -i tcp6file.txt2024-10-01\ 22:01:16.000454544\ +0200\ CEST\ m=+0.156402181
+```
 
 Gaurav Sablok
